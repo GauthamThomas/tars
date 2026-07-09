@@ -1,0 +1,7 @@
+mlx-whisper
+sounddevice
+numpy
+pygame
+rich
+pyyaml
+rumps; sys_platform == "darwin"

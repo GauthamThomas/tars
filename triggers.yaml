@@ -1,0 +1,71 @@
+triggers:
+
+  - name: impossible
+    description: "something is impossible, can't be done, will never work, there's no way, not feasible, that can't happen, won't work, no chance"
+    audio: tars_necessary.wav
+    reaction: "No. It's necessary."
+    color: gold
+    cooldown: 15
+
+  - name: circle_back
+    description: "let's circle back, circle back on this, revisit this later, take this offline, park that thought, table this discussion, we'll come back to this, put a pin in it"
+    audio: airhorn.wav
+    reaction: "Circling back in approximately never."
+    color: red
+    cooldown: 10
+
+  - name: quick_question
+    description: "quick question, just a quick one, one quick thing, this will only take a second, really quick, super quick"
+    audio: sigh.wav
+    reaction: "It never is."
+    color: yellow
+    cooldown: 10
+
+  - name: trust_me
+    description: "trust me, believe me, I promise you, you have my word, I guarantee, take my word for it, I swear"
+    audio: uh_oh.wav
+    reaction: "Adjusting trust settings. Done."
+    color: orange
+    cooldown: 12
+
+  - name: this_is_fine
+    description: "this is fine, everything is fine, we're fine, it should be okay, nothing to worry about, totally fine, perfectly fine"
+    audio: this_is_fine.wav
+    reaction: "🔥 THIS IS FINE 🔥"
+    color: red
+    cooldown: 10
+
+  - name: synergy
+    description: "synergy, paradigm shift, disruptive innovation, move the needle, leverage our, scalable solution, ecosystem, boil the ocean, bleeding edge, thought leadership, value-add, bandwidth for this"
+    audio: vomit.wav
+    reaction: "Corporate Bingo. Someone owes me a coffee."
+    color: magenta
+    cooldown: 8
+
+  - name: just_do_it
+    description: "just do it, let's just go for it, we'll figure it out as we go, ship it, just ship it, bias for action, move fast"
+    audio: shia.wav
+    reaction: "I have a cue light I can use when I'm joking. This is not that."
+    color: green
+    cooldown: 10
+
+  - name: we_should_talk
+    description: "we need to talk, we should talk, can we have a conversation, have a word with you, catch up with you later"
+    audio: uh_oh.wav
+    reaction: "Danger level: elevated."
+    color: red
+    cooldown: 15
+
+  - name: data_driven
+    description: "data-driven, data driven decision, let the data speak, the numbers show, the metrics suggest, according to the data"
+    audio: ~
+    reaction: "Data acknowledged. Feelings remain unaudited."
+    color: cyan
+    cooldown: 12
+
+  - name: no_brainer
+    description: "no brainer, no-brainer, it's obvious, clearly the right move, it's a slam dunk, open and shut"
+    audio: ~
+    reaction: "Curious. My brain engaged anyway."
+    color: yellow
+    cooldown: 10
